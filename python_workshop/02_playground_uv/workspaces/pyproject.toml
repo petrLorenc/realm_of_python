@@ -1,0 +1,25 @@
+[project]
+name = "workspaces"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["backend-package", "utils-package", "other" , "tqdm>=4,<5"]
+
+[tool.uv.sources]
+backend-package = { workspace = true }
+utils-package = { workspace = true }
+other = { workspace = true }
+tqdm = { git = "https://github.com/tqdm/tqdm" }
+
+[tool.uv.workspace]
+members = ["packages/backend-package", "packages/utils-package", "packages/other"]
+
+[tool.uv]
+package = false
+
+
+#[build-system]
+#requires = ["hatchling"]
+#build-backend = "hatchling.build"
+#
+#[tool.hatch.build.targets.wheel]
+#packages = ["/packages/*"]
