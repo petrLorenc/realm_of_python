@@ -1,0 +1,10 @@
+[project]
+name = "my-application"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "my-library-database @ file:///${MY_PATH}/my_library_database",
+    "my-library-genai @ file:///${MY_PATH}/my_library_genai",
+]

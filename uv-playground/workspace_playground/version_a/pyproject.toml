@@ -1,0 +1,8 @@
+[project]
+name = "version-a"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.uv.workspace]
+members = ["my_library_database", "my_library_genai", "my_application"]

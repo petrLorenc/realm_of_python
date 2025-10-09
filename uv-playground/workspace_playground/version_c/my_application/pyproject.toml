@@ -1,0 +1,16 @@
+[project]
+name = "my-application"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "my-library-database",
+    "my-library-genai",
+]
+
+[tool.uv.sources]
+# ${MY_PATH} is not working, relative to where pyproject.toml is (not optimal)
+my-library-database = { path = "${{LIBS_PATH}}/my_library_database", package = true, editable = true }
+my-library-genai = { path = "../my_library_genai" }
+allow-env-substitution = true

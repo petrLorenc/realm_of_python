@@ -3,7 +3,7 @@ name = "realm_of_python"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Petr Lorenc",email = "lorencp@merck.com"}
+    {name = "Petr Lorenc",email = "petr.lorenc.ml@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"

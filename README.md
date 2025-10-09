@@ -8,3 +8,9 @@ This repository is a collection of Python code snippets, examples, and best prac
 
 poetry install --no-root
 ```
+
+I would advice to use UV from 03/2025. See [uv-playground](./uv-playground/) folder.
+
+```
+uv sync
+```

@@ -1,0 +1,7 @@
+python-downloads = "manual" # won't be using their CPython interpreter - need to use pyenv
+# default-groups = ["dev", "foo"] # dev is DEFAULT!
+
+[[index]]
+name = "merck"
+url = "https://artifacts.merck.com/artifactory/api/pypi/pypi-main/simple/"
+priority = "primary"
