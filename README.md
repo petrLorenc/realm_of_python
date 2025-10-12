@@ -8,7 +8,7 @@ It was partly used as supporting material for various presentations and workshop
 * [3x3h Python 101 workshop (03/25)](./python_workshop/)
 * [Astral UV - how to use it properly (02/25)](./uv-playground/)
 * [Python typing - cheatsheet and some edge cases (08/25)](./typing/)
-* [Reimplementation of Gradient Descent (based on Andrej Karpathy's explanation) (06/25)](./11_neural_network/)
+* [Reimplementation of Gradient Descent (based on Andrej Karpathy's explanation) (06/25)](./pytorch_neural_network/)
 * [Reinplemntation of Dependency Injection (05/25)](./own_dependency_injection/) - Inspired by [Python DI library](https://python-dependency-injector.ets-labs.org/introduction/di_in_python.html)
 
 

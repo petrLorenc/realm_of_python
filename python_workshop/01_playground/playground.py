@@ -6,4 +6,3 @@ def bar(param: str):
 
 result = bar(str(100))
 print(result)  # This will print "foo"
-ii
