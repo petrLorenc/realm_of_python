@@ -12,7 +12,7 @@ It was partly used as supporting material for various presentations and workshop
 * **[Python Typing Workshop](./typing_workshop/)** - Comprehensive guide to Python type hints, generics, and edge cases (August 2025)
 
 ### Deep Dive Topics
-* **[PyTorch Neural Network](./pytorch_neural_network/)** - Reimplementation of gradient descent based on Andrej Karpathy's explanation with Jupyter notebooks (June 2025)
+* **[Neural Network](./neural_network/)** - All about neural networks, for example reimplementation of gradient descent based on Andrej Karpathy's explanation with Jupyter notebooks (June 2025)
 * **[Advanced Inheritance](./advanced_inheritance/)** - Comprehensive exploration of Python inheritance, including metaclasses, multiple inheritance, and the diamond problem
 * **[Asynchronous Code](./asynchronous_code/)** - Process vs Thread vs Asyncio comparison with performance optimization examples (January 2025)
 * **[Dependency Injection](./dependency_injection/)** - Custom implementation of dependency injection patterns inspired by Python DI libraries (May 2025)
