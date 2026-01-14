@@ -6,7 +6,7 @@
 2. **Find a mentor** - Get guidance on what to learn and when
 3. **Practice consistently!**
 
-💡 *Need guidance? Visit [petr.budaktivni.cz](https://petr.budaktivni.cz/) for mentorship and consultancy.*
+💡 *Need guidance? Visit [petr.budaktivni.cz/en](https://petr.budaktivni.cz/en) for mentorship and consultancy.*
 
 ---
 
