@@ -1,5 +1,7 @@
 # Realm of Python
 
+To book a consultation, visit [https://petr.budaktivni.cz/](my Pages site).
+
 This repository is a collection of Python code snippets, examples, and best practices. It is part of a larger effort to provide hands-on experience with different aspects of Python. It does not aim to replace comprehensive resources; rather, it provides a quick reference for some common problems and solutions. It can also be used as presentation material in some cases.
 
 It was partly used as supporting material for various presentations and workshops I have given since 2023. The topics covered by this repository include:
