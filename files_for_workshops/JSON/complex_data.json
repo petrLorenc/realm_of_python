@@ -1,0 +1,72 @@
+{
+  "company": "Tech Solutions Inc.",
+  "founded": 2010,
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sarah Miller",
+      "department": "Engineering",
+      "role": "Senior Developer",
+      "salary": 95000,
+      "skills": ["Python", "JavaScript", "Docker"],
+      "projects": [
+        {
+          "name": "Project Alpha",
+          "status": "completed",
+          "duration_months": 6
+        },
+        {
+          "name": "Project Beta",
+          "status": "in_progress",
+          "duration_months": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "department": "Marketing",
+      "role": "Marketing Manager",
+      "salary": 78000,
+      "skills": ["SEO", "Content Strategy", "Analytics"],
+      "projects": [
+        {
+          "name": "Campaign 2024",
+          "status": "completed",
+          "duration_months": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Emma Davis",
+      "department": "Engineering",
+      "role": "DevOps Engineer",
+      "salary": 88000,
+      "skills": ["Kubernetes", "AWS", "Terraform"],
+      "projects": []
+    }
+  ],
+  "departments": {
+    "Engineering": {
+      "head": "Sarah Miller",
+      "budget": 500000,
+      "headcount": 12
+    },
+    "Marketing": {
+      "head": "Michael Chen",
+      "budget": 200000,
+      "headcount": 5
+    },
+    "Sales": {
+      "head": "Robert Johnson",
+      "budget": 300000,
+      "headcount": 8
+    }
+  },
+  "revenue": {
+    "2023": 2500000,
+    "2024": 3200000,
+    "2025": 4100000
+  }
+}

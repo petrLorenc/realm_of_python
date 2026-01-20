@@ -1,0 +1,9 @@
+employee_id,first_name,last_name,department,position,salary,hire_date,manager_id
+1001,Sarah,Miller,Engineering,Senior Developer,95000,2018-03-15,
+1002,Michael,Chen,Marketing,Marketing Manager,78000,2019-06-01,
+1003,Emma,Davis,Engineering,DevOps Engineer,88000,2020-01-10,1001
+1004,James,Wilson,Sales,Sales Representative,65000,2021-04-22,1007
+1005,Olivia,Taylor,Engineering,Junior Developer,62000,2022-02-14,1001
+1006,William,Anderson,HR,HR Specialist,58000,2020-08-05,
+1007,Sophia,Martinez,Sales,Sales Manager,82000,2017-11-30,
+1008,Lucas,Garcia,Marketing,Content Creator,55000,2023-01-20,1002

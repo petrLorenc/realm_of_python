@@ -1,0 +1,11 @@
+name,description,tags,notes
+"Product A","A simple product","tag1,tag2","No special notes"
+"Product ""B""","Product with quotes in name","tag3","Contains ""quoted"" text"
+"Product C","Description with
+newline character","tag1,tag4","Multi-line
+content here"
+"Product, D","Name with comma","tag2,tag5","Comma, in notes"
+"Product E","Normal product","","Empty tags field"
+"Product F","Tab	separated","tag1","Contains	tabs"
+"","Empty name","tag6","Edge case test"
+"Product G",,"tag7","Empty description"

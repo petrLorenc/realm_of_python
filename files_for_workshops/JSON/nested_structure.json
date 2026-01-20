@@ -1,0 +1,26 @@
+{
+  "user": {
+    "id": 12345,
+    "username": "john_doe",
+    "profile": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "age": 35,
+      "address": {
+        "street": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "coordinates": {
+          "latitude": 40.7128,
+          "longitude": -74.0060
+        }
+      }
+    },
+    "preferences": {
+      "theme": "dark",
+      "notifications": true,
+      "language": "en-US"
+    }
+  }
+}

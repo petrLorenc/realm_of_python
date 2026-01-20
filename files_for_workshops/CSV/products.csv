@@ -1,0 +1,9 @@
+product_id,product_name,category,price,stock_quantity,supplier,last_updated
+101,Laptop Pro 15",Electronics,1299.99,45,TechCorp,2024-01-15
+102,Wireless Mouse,Accessories,29.99,150,ClickMasters,2024-01-10
+103,USB-C Hub,Accessories,49.50,78,ConnectPlus,2024-01-12
+104,4K Monitor,Electronics,449.00,32,DisplayMax,2024-01-14
+105,Mechanical Keyboard,Accessories,89.99,62,TypeRight,2024-01-11
+106,Webcam HD,Electronics,79.99,28,VisionTech,2024-01-13
+107,Desk Lamp,Furniture,35.00,95,LightHome,2024-01-09
+108,Office Chair,Furniture,249.99,18,ComfortSeating,2024-01-08

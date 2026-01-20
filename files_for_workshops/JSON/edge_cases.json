@@ -1,0 +1,32 @@
+{
+  "null_value": null,
+  "empty_string": "",
+  "empty_array": [],
+  "empty_object": {},
+  "unicode_text": "Hello 世界 🌍",
+  "special_chars": "Line1\nLine2\tTabbed",
+  "numbers": {
+    "integer": 42,
+    "float": 3.14159,
+    "negative": -273.15,
+    "scientific": 1.23e-4,
+    "zero": 0
+  },
+  "booleans": {
+    "true_value": true,
+    "false_value": false
+  },
+  "nested_arrays": [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+  ],
+  "mixed_types": [
+    "string",
+    123,
+    true,
+    null,
+    {"key": "value"},
+    [1, 2, 3]
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "product": "Laptop",
+    "brand": "TechCorp",
+    "price": 999.99,
+    "in_stock": true,
+    "tags": ["electronics", "computers", "portable"]
+  },
+  {
+    "id": 2,
+    "product": "Wireless Mouse",
+    "brand": "ClickPro",
+    "price": 29.99,
+    "in_stock": true,
+    "tags": ["electronics", "accessories"]
+  },
+  {
+    "id": 3,
+    "product": "USB-C Cable",
+    "brand": "ConnectPlus",
+    "price": 12.49,
+    "in_stock": false,
+    "tags": ["accessories", "cables"]
+  },
+  {
+    "id": 4,
+    "product": "Monitor",
+    "brand": "DisplayMax",
+    "price": 349.00,
+    "in_stock": true,
+    "tags": ["electronics", "displays"]
+  }
+]
