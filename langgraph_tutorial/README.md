@@ -1,0 +1,1 @@
+uv run --with "langgraph-cli[inmem]" langgraph dev
